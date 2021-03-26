@@ -1,4 +1,4 @@
-# All Github Emojies
+# All Github Emojis
 ***copy paste ande use***
 ## People
 * :bowtie: :bowtie: 	😄 :smile: 	😆 :laughing:
