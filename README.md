@@ -1,5 +1,5 @@
 # All Github Emojis
-***copy paste ande use***
+***copy paste and use***
 ## People
 * :bowtie: :bowtie: 	😄 :smile: 	😆 :laughing:
 * 😊 :blush: 	😃 :smiley: 	☺️ :relaxed:
