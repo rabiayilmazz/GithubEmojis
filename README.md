@@ -1,7 +1,7 @@
 # All Github Emojies
 ***copy paste ande use***
 ## People
-:bowtie: :bowtie: 	😄 :smile: 	😆 :laughing:
+:bowtie: \:bowtie: 	😄 :smile: 	😆 :laughing:
 😊 :blush: 	😃 :smiley: 	☺️ :relaxed:
 😏 :smirk: 	😍 :heart_eyes: 	😘 :kissing_heart:
 😚 :kissing_closed_eyes: 	😳 :flushed: 	😌 :relieved:
