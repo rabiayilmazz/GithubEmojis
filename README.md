@@ -45,12 +45,11 @@
 * 👬 :two_men_holding_hands: 	👭 :two_women_holding_hands: 	💃 :dancer:
 * 👯 :dancers: 	🙆‍♀️ :ok_woman: 	🙅 :no_good:
 * 💁 :information_desk_person: 	🙋 :raising_hand: 	👰 :bride_with_veil:
-* :person_with_pouting_face: :person_with_pouting_face: 	:person_frowning: :person_frowning: 	🙇 :bow:
 * 💏 :couplekiss: 	💑 :couple_with_heart: 	💆 :massage:
 * 💇 :haircut: 	💅 :nail_care: 	👦 :boy:
 * 👧 :girl: 	👩 :woman: 	👨 :man:
 * 👶 :baby: 	👵 :older_woman: 	👴 :older_man:
-* :person_with_blond_hair: :person_with_blond_hair: 	👲 :man_with_gua_pi_mao: 	👳‍♂️ :man_with_turban:
+* 👲 :man_with_gua_pi_mao: 	👳‍♂️ :man_with_turban:
 * 👷 :construction_worker: 	👮 :cop: 	👼 :angel:
 * 👸 :princess: 	😺 :smiley_cat: 	😸 :smile_cat:
 * 😻 :heart_eyes_cat: 	😽 :kissing_cat: 	😼 :smirk_cat:
@@ -62,10 +61,7 @@
 * 👂 :ear: 	👀 :eyes: 	👃 :nose:
 * 👅 :tongue: 	💌 :love_letter: 	👤 :bust_in_silhouette:
 * 👥 :busts_in_silhouette: 	💬 :speech_balloon: 	💭 :thought_balloon:
-* :feelsgood: :feelsgood: 	:finnadie: :finnadie: 	:goberserk: :goberserk:
-* :godmode: :godmode: 	:hurtrealbad: :hurtrealbad: 	:rage1: :rage1:
-* :rage2: :rage2: 	:rage3: :rage3: 	:rage4: :rage4:
-* :suspect: :suspect: 	:trollface: :trollface: 	
+
 ## Nature
 * ☀️ :sunny: 	☔ :umbrella: 	☁️ :cloud:
 * ❄️ :snowflake: 	⛄ :snowman: 	⚡ :zap:
@@ -104,8 +100,8 @@
 * 🌗 :last_quarter_moon: 	🌘 :waning_crescent_moon: 	🌜 :last_quarter_moon_with_face:
 * 🌛 :first_quarter_moon_with_face: 	🌔 :moon: 	🌍 :earth_africa:
 * 🌎 :earth_americas: 	🌏 :earth_asia: 	🌋 :volcano:
-* 🌌 :milky_way: 	⛅ :partly_sunny: 	:octocat: :octocat:
-* :squirrel: :squirrel: 		
+* 🌌 :milky_way: 	⛅ :partly_sunny: 	
+
 
 ## Objects
 * 🎍 :bamboo: 	💝 :gift_heart: 	🎎 :dolls:
